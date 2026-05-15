@@ -6,7 +6,7 @@
 
 ## 🧩 Contexto
 
-Projeto desenvolvido para consolidar conceitos de lógica de programação, estruturas de controle, funções e manipulação de strings em Python. As categorias foram escolhidas propositalmente dentro do universo de dados e finanças — reforçando vocabulário técnico da área.
+Projeto desenvolvido para consolidar conceitos de lógica de programação, estruturas de controle, funções e manipulação de strings em Python. As categorias foram escolhidas propositalmente dentro do universo de dados e finanças; reforçando vocabulário técnico da área.
 
 ---
 
