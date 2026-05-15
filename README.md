@@ -1,6 +1,6 @@
 # 🎮 Jogo da Forca
 
-> Jogo da forca clássico no terminal com categorias temáticas da área de dados, níveis de dificuldade e placar de partidas — desenvolvido em Python puro.
+> Jogo da forca clássico no terminal com categorias temáticas da área de dados, níveis de dificuldade e placar de partidas. (Desenvolvido em Python).
 
 ---
 
@@ -22,11 +22,11 @@ Projeto desenvolvido para consolidar conceitos de lógica de programação, estr
 
 ## 📋 Palavras por categoria
 
-| Categoria        | Exemplos de palavras                          |
-|-----------------|-----------------------------------------------|
-| Tecnologia       | python, dashboard, algoritmo, pipeline        |
-| Análise de Dados | dataset, insight, tendencia, correlacao       |
-| Finanças         | receita, conciliacao, inadimplencia, orcamento|
+|     Categoria    |             Exemplos de palavras              |
+|----------------- |-----------------------------------------------|
+|    Tecnologia    |     python, dashboard, algoritmo, pipeline    |
+| Análise de Dados |    dataset, insight, tendencia, correlacao    |
+|     Finanças     | receita, conciliacao, inadimplencia, orcamento|
 
 ---
 
