@@ -24,9 +24,9 @@ Projeto desenvolvido para consolidar conceitos de lógica de programação, estr
 
 |     Categoria    |             Exemplos de palavras              |
 |----------------- |-----------------------------------------------|
-|    Tecnologia    |     python, dashboard, algoritmo, pipeline    |
-| Análise de Dados |    dataset, insight, tendencia, correlacao    |
-|     Finanças     | receita, conciliacao, inadimplencia, orcamento|
+|     Tecnologia   |     python, dashboard, algoritmo, pipeline    |
+|  Análise de Dados|    dataset, insight, tendencia, correlacao    |
+|      Finanças    | receita, conciliacao, inadimplencia, orcamento|
 
 ---
 
